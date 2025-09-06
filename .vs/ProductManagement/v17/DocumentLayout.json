@@ -1,0 +1,581 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.api.tests\\integration\\controllers\\produtocontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|solutionrelative:tests\\productmanagement.api.tests\\integration\\controllers\\produtocontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.api\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:src\\productmanagement.api\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:src\\productmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:src\\productmanagement.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.api.tests\\productmanagement.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|solutionrelative:tests\\productmanagement.api.tests\\productmanagement.api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.api.tests\\integration\\utils\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|solutionrelative:tests\\productmanagement.api.tests\\integration\\utils\\apierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.api.tests\\unit\\middlewares\\errorhandlermiddlewarestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|solutionrelative:tests\\productmanagement.api.tests\\unit\\middlewares\\errorhandlermiddlewarestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.application.tests\\services\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|solutionrelative:tests\\productmanagement.application.tests\\services\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.application.tests\\productmanagement.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|solutionrelative:tests\\productmanagement.application.tests\\productmanagement.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394BA06-A999-4AD3-975B-CA4044211C23}|tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.domain.tests\\entities\\produtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3394BA06-A999-4AD3-975B-CA4044211C23}|tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj|solutionrelative:tests\\productmanagement.domain.tests\\entities\\produtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.application.tests\\validators\\produtodtovalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B629280-DE46-406D-9778-D2EA295D0921}|tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj|solutionrelative:tests\\productmanagement.application.tests\\validators\\produtodtovalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.api.tests\\unit\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0EBDF6-C8C6-4158-B2F7-CBA43AC95D75}|tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj|solutionrelative:tests\\productmanagement.api.tests\\unit\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\validators\\produtodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\validators\\produtodtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.infrastructure\\repositories\\repositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|solutionrelative:src\\productmanagement.infrastructure\\repositories\\repositoryinmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|solutionrelative:src\\productmanagement.infrastructure\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.infrastructure.tests\\repositories\\produtorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|solutionrelative:tests\\productmanagement.infrastructure.tests\\repositories\\produtorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.infrastructure.tests\\repositories\\repositoryinmemorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|solutionrelative:tests\\productmanagement.infrastructure.tests\\repositories\\repositoryinmemorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\mappers\\produtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\mappers\\produtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\productmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\productmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:src\\productmanagement.api\\productmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\productmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\productmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.api\\productmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F8934F2-3F66-4FF1-BD98-E32632A896E4}|src\\ProductManagement.API\\ProductManagement.API.csproj|solutionrelative:src\\productmanagement.api\\productmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8069BCBC-859E-4F4A-8734-81ECD1A8D1FF}|src\\ProductManagement.Application\\ProductManagement.Application.csproj|solutionrelative:src\\productmanagement.application\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79576DC0-7FA5-486D-B946-9BFC3ACF8C94}|src\\ProductManagement.Domain\\ProductManagement.Domain.csproj|solutionrelative:src\\productmanagement.domain\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|c:\\users\\user\\desktop\\productmanagement\\src\\productmanagement.infrastructure\\productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5FAE4A0-C697-41DB-A1FE-B54FADAF1475}|src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj|solutionrelative:src\\productmanagement.infrastructure\\productmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.infrastructure.tests\\productmanagement.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0C82D0F-6CB9-4B14-B628-079375A593D4}|tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj|solutionrelative:tests\\productmanagement.infrastructure.tests\\productmanagement.infrastructure.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3394BA06-A999-4AD3-975B-CA4044211C23}|tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj|c:\\users\\user\\desktop\\productmanagement\\tests\\productmanagement.domain.tests\\productmanagement.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3394BA06-A999-4AD3-975B-CA4044211C23}|tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj|solutionrelative:tests\\productmanagement.domain.tests\\productmanagement.domain.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Integration\\Controllers\\ProdutoControllerIntegrationTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.API.Tests\\Integration\\Controllers\\ProdutoControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Integration\\Controllers\\ProdutoControllerIntegrationTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.API.Tests\\Integration\\Controllers\\ProdutoControllerIntegrationTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:11:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductManagement.API.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj",
+              "RelativeToolTip": "tests\\ProductManagement.API.Tests\\ProductManagement.API.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\Services\\ProdutoServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Application.Tests\\Services\\ProdutoServiceTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\Services\\ProdutoServiceTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.Application.Tests\\Services\\ProdutoServiceTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:50:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandlerMiddlewaresTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Unit\\Middlewares\\ErrorHandlerMiddlewaresTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.API.Tests\\Unit\\Middlewares\\ErrorHandlerMiddlewaresTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Unit\\Middlewares\\ErrorHandlerMiddlewaresTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.API.Tests\\Unit\\Middlewares\\ErrorHandlerMiddlewaresTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:01:36.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.API\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "src\\ProductManagement.API\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:06:55.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\Exceptions\\AppException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\Exceptions\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:08:21.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Program.cs",
+              "RelativeToolTip": "src\\ProductManagement.API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:35:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "src\\ProductManagement.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:42:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Integration\\Utils\\ApiErrorResponse.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.API.Tests\\Integration\\Utils\\ApiErrorResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Integration\\Utils\\ApiErrorResponse.cs",
+              "RelativeToolTip": "tests\\ProductManagement.API.Tests\\Integration\\Utils\\ApiErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:24:26.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManagement.Application.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+              "RelativeToolTip": "tests\\ProductManagement.Application.Tests\\ProductManagement.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Domain.Tests\\Entities\\ProdutoTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Domain.Tests\\Entities\\ProdutoTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Domain.Tests\\Entities\\ProdutoTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.Domain.Tests\\Entities\\ProdutoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:44:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoDTOValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\Validators\\ProdutoDTOValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Application.Tests\\Validators\\ProdutoDTOValidatorTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Application.Tests\\Validators\\ProdutoDTOValidatorTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.Application.Tests\\Validators\\ProdutoDTOValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:59:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Unit\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.API.Tests\\Unit\\Controllers\\ProdutoControllerTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.API.Tests\\Unit\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.API.Tests\\Unit\\Controllers\\ProdutoControllerTests.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T23:00:32.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdutoDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Validators\\ProdutoDTOValidator.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\Validators\\ProdutoDTOValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Validators\\ProdutoDTOValidator.cs",
+              "RelativeToolTip": "src\\ProductManagement.Application\\Validators\\ProdutoDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:40:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\DTOs\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\DTOs\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\DTOs\\ProdutoDTO.cs",
+              "RelativeToolTip": "src\\ProductManagement.Application\\DTOs\\ProdutoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:37:33.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "src\\ProductManagement.Infrastructure\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:04:09.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:36:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoryInMemory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\Repositories\\RepositoryInMemory.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Infrastructure\\Repositories\\RepositoryInMemory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\Repositories\\RepositoryInMemory.cs",
+              "RelativeToolTip": "src\\ProductManagement.Infrastructure\\Repositories\\RepositoryInMemory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:41:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdutoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\Repositories\\ProdutoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Infrastructure.Tests\\Repositories\\ProdutoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\Repositories\\ProdutoRepositoryTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.Infrastructure.Tests\\Repositories\\ProdutoRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:46:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "src\\ProductManagement.Application\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:38:41.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryInMemoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\Repositories\\RepositoryInMemoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Infrastructure.Tests\\Repositories\\RepositoryInMemoryTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\Repositories\\RepositoryInMemoryTests.cs",
+              "RelativeToolTip": "tests\\ProductManagement.Infrastructure.Tests\\Repositories\\RepositoryInMemoryTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:52:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T22:54:22.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProdutoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Mappers\\ProdutoProfile.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\Mappers\\ProdutoProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Mappers\\ProdutoProfile.cs",
+              "RelativeToolTip": "src\\ProductManagement.Application\\Mappers\\ProdutoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:57:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductManagement.Domain",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:59:26.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductManagement.Application",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+              "RelativeToolTip": "src\\ProductManagement.Application\\ProductManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:35:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductManagement.API",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\ProductManagement.API.csproj",
+              "RelativeDocumentMoniker": "src\\ProductManagement.API\\ProductManagement.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\ProductManagement.API.csproj",
+              "RelativeToolTip": "src\\ProductManagement.API\\ProductManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:55:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Application\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Application\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "src\\ProductManagement.Application\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:38:12.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductManagement.API.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\ProductManagement.API.http",
+              "RelativeDocumentMoniker": "src\\ProductManagement.API\\ProductManagement.API.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.API\\ProductManagement.API.http",
+              "RelativeToolTip": "src\\ProductManagement.API\\ProductManagement.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-03T22:13:47.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Domain\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Domain\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "src\\ProductManagement.Domain\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:37:00.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductManagement.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "RelativeToolTip": "src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductManagement.Infrastructure.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj",
+              "RelativeToolTip": "tests\\ProductManagement.Infrastructure.Tests\\ProductManagement.Infrastructure.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductManagement.Domain.Tests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ProductManagement\\tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj",
+              "RelativeToolTip": "tests\\ProductManagement.Domain.Tests\\ProductManagement.Domain.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T21:43:34.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

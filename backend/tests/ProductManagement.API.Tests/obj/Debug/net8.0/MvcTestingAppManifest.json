@@ -1,0 +1,6 @@
+{
+  "ProductManagement.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\Desktop\\ProductManagement\\backend\\src\\ProductManagement.API",
+  "ProductManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\Desktop\\ProductManagement\\backend\\src\\ProductManagement.Application",
+  "ProductManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\Desktop\\ProductManagement\\backend\\src\\ProductManagement.Domain",
+  "ProductManagement.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\Desktop\\ProductManagement\\backend\\src\\ProductManagement.Infrastructure"
+}
