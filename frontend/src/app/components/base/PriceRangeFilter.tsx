@@ -38,40 +38,41 @@ export const PriceRangeFilter: React.FC<PriceRangeFilterProps> = ({
   const hasActiveFilters = precoMin > 0 || precoMax > 0;
 
   return (
-    <div className={`flex items-center space-x-3 ${className}`}>
-      <div className="flex items-center space-x-2">
+    <div className={`flex flex-col sm:flex-row sm:items-center gap-3 ${className}`}>
+      <div className="flex flex-col sm:flex-row sm:items-center gap-2">
         <label className="text-sm font-medium text-gray-700 whitespace-nowrap">
           Preço:
         </label>
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center gap-2">
           <Input
             type="number"
             placeholder="Mín"
             value={precoMin > 0 ? precoMin.toString() : ''}
             onChange={handlePrecoMinChange}
-            className="w-20"
+            className="w-20 sm:w-24"
             min="0"
             step="0.01"
           />
-          <span className="text-gray-500">até</span>
+          <span className="text-gray-500 text-sm">até</span>
           <Input
             type="number"
             placeholder="Máx"
             value={precoMax > 0 ? precoMax.toString() : ''}
             onChange={handlePrecoMaxChange}
-            className="w-20"
+            className="w-20 sm:w-24"
             min="0"
             step="0.01"
           />
         </div>
       </div>
-      
-      <div className="flex items-center space-x-2">
+  
+      <div className="flex items-center gap-2">
         <Button
           onClick={onApplyFilters}
           disabled={loading}
           size="sm"
           variant="primary"
+          className="flex-1 sm:flex-none"
         >
           Filtrar
         </Button>
@@ -82,6 +83,7 @@ export const PriceRangeFilter: React.FC<PriceRangeFilterProps> = ({
             disabled={loading}
             size="sm"
             variant="secondary"
+            className="flex-1 sm:flex-none"
           >
             Limpar
           </Button>

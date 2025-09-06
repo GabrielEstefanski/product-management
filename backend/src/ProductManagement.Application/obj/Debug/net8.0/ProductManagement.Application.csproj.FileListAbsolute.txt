@@ -28,3 +28,4 @@ C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Applicatio
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Application\obj\Debug\net8.0\refint\ProductManagement.Application.dll
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.pdb
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Application\obj\Debug\net8.0\ref\ProductManagement.Application.dll
+C:\Users\User\Desktop\productmanagement\backend\src\ProductManagement.Application\obj\Debug\net8.0\ProductManagement.Application.sourcelink.json

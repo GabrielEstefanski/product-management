@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHQmYFpPNsI=",
+  "dgSpecHash": "5MgOlTSSlTQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\ProductManagement\\backend\\src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\productmanagement\\backend\\src\\ProductManagement.Infrastructure\\ProductManagement.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

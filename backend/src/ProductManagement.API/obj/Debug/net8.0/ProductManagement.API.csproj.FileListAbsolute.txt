@@ -90,3 +90,4 @@ C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.API\obj\De
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.API\obj\Debug\net8.0\ProductManagement.API.pdb
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.API\obj\Debug\net8.0\ProductManagement.API.genruntimeconfig.cache
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.API\obj\Debug\net8.0\ref\ProductManagement.API.dll
+C:\Users\User\Desktop\productmanagement\backend\src\ProductManagement.API\obj\Debug\net8.0\ProductManagement.API.sourcelink.json

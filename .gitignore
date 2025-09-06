@@ -1,0 +1,28 @@
+# Build outputs
+bin/
+obj/
+
+# Debug logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Rider/VS/VSCode
+.vs/
+.idea/
+*.user
+*.suo
+*.vscode/
+
+# Next.js / Node
+node_modules/
+.next/
+out/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

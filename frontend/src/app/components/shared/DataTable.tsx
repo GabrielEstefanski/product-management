@@ -247,7 +247,7 @@ export function DataTable<T extends Record<string, any>>({
   return (
     <div className={`bg-white rounded-lg shadow-sm overflow-hidden ${className}`}>
       <div className="p-3 border-b border-gray-100">
-        <div className="flex items-center space-x-3">
+        <div className="flex flex-col sm:flex-row sm:items-center gap-3">
           <div className="flex-1 max-w-md">
             <Input
               placeholder={searchPlaceholder}
@@ -257,7 +257,7 @@ export function DataTable<T extends Record<string, any>>({
             />
           </div>
           {customHeader && (
-            <div className="flex items-center space-x-3">
+            <div className="flex items-center justify-end sm:justify-start">
               {customHeader}
             </div>
           )}

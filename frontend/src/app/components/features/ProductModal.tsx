@@ -45,44 +45,51 @@ export const ProductModal: React.FC<ProductModalProps> = ({
       size="lg"
     >
       <ModalBody>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <Input
-            label="Nome do Produto"
-            placeholder="Digite o nome do produto..."
-            value={formData.nome}
-            onChange={(e) => onFormChange('nome', e.target.value)}
-            leftIcon={<Package className="w-4 h-4" />}
-          />
-
-          <Dropdown
-            label="Categoria"
-            options={categoriaOptions}
-            value={formData.categoria}
-            onChange={(value) => onFormChange('categoria', value)}
-            placeholder="Selecione uma categoria"
-          />
-
-          <MaskedInput
-            label="Preço"
-            value={String(Math.round(formData.preco * 100))}
-            onChange={handlePriceChange}
-            placeholder="R$ 0,00"
-            leftIcon={<DollarSign className="w-4 h-4" />}
-          />
-
-          <Input
-            label="Quantidade em Estoque"
-            type="number"
-            placeholder="Digite a quantidade..."
-            value={formData.quantidadeEstoque.toString()}
-            onChange={(e) => {
-              const value = parseInt(e.target.value) || 0;
-              onFormChange('quantidadeEstoque', value);
-            }}
-            leftIcon={<Package2 className="w-4 h-4" />}
-            min="0"
-            max="1000000"
-          />
+        <div className="space-y-6">
+          <div>
+            <Input
+              label="Nome do Produto"
+              placeholder="Digite o nome do produto..."
+              value={formData.nome}
+              onChange={(e) => onFormChange('nome', e.target.value)}
+              leftIcon={<Package className="w-4 h-4" />}
+            />
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+            <div>
+              <Dropdown
+                label="Categoria"
+                options={categoriaOptions}
+                value={formData.categoria}
+                onChange={(value) => onFormChange('categoria', value)}
+                placeholder="Selecione uma categoria"
+              />
+            </div>
+            <div>
+              <MaskedInput
+                label="Preço"
+                value={String(Math.round(formData.preco * 100))}
+                onChange={handlePriceChange}
+                placeholder="R$ 0,00"
+                leftIcon={<DollarSign className="w-4 h-4" />}
+              />
+            </div>
+          </div>
+          <div>
+            <Input
+              label="Quantidade em Estoque"
+              type="number"
+              placeholder="Digite a quantidade..."
+              value={formData.quantidadeEstoque.toString()}
+              onChange={(e) => {
+                const value = parseInt(e.target.value) || 0;
+                onFormChange('quantidadeEstoque', value);
+              }}
+              leftIcon={<Package2 className="w-4 h-4" />}
+              min="0"
+              max="1000000"
+            />
+          </div>
         </div>
       </ModalBody>
 

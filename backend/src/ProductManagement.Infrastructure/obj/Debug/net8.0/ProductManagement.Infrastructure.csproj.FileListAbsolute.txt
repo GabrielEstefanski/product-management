@@ -28,3 +28,4 @@ C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Infrastruc
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Infrastructure\obj\Debug\net8.0\refint\ProductManagement.Infrastructure.dll
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.pdb
 C:\Users\User\Desktop\ProductManagement\backend\src\ProductManagement.Infrastructure\obj\Debug\net8.0\ref\ProductManagement.Infrastructure.dll
+C:\Users\User\Desktop\productmanagement\backend\src\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.sourcelink.json
