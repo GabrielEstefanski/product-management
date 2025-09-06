@@ -33,7 +33,6 @@ O **Product Management System** é uma aplicação full-stack que permite o gere
 - **Tailwind CSS 4** - Framework CSS utilitário
 - **Lucide React** - Ícones modernos
 - **React Hot Toast** - Notificações
-- **Radix UI** - Componentes acessíveis
 
 ### Backend
 - **.NET 8** - Framework web
